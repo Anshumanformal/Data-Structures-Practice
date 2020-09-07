@@ -1,4 +1,4 @@
-//Creating and travering a linked list.
+//Creating and traversing a linked list.
 #include<iostream>
 using namespace std;
 
